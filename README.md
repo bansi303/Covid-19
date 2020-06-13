@@ -1,4 +1,4 @@
-![](/Covid-19/Covid-19/Resource/Animation/logo.gif)
+![](/Covid-19/Resource/Animation/logo.gif)
 
 #  Covid-19
 An application that simplifies accessing and show some of Covid-19 information
@@ -21,3 +21,6 @@ MVVM ( Model View Viewmodel) for easy testing and debugging
 * Alamofire - To fetch current data of Covid-19
 * SVProgressHUD - To show progress bar and preloader
 * SwiftGifOrigin - To load and render gif file.
+
+## Credits
+![](https://lottiefiles.com/17559-virus-loader)
