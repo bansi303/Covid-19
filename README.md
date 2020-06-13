@@ -23,4 +23,4 @@ MVVM ( Model View Viewmodel) for easy testing and debugging
 * SwiftGifOrigin - To load and render gif file.
 
 ## Acknowledgement
-Thank you ![Virus Loader](https://lottiefiles.com/17559-virus-loader) for the nice logo animation.
+Thank you [Virus Loader](https://lottiefiles.com/17559-virus-loader) for the logo animation.
