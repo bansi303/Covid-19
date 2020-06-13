@@ -1,0 +1,22 @@
+[
+  {
+    "title":"Are you experiencing any of the following symptoms?",
+    "image":"",
+    "desc": "• severe difficulty breathing (struggling for each breath, can only speak in single words) \n\n• severe chest pain (constant tightness or crushing sensation) \n\n• feeling confused (for example, unsure of where you are) \n\n• losing consciousness"
+  },
+  {
+    "title":"Do any of the following apply to you?",
+    "image":"",
+    "desc": "• I am 65 years old or older \n\n• I have a condition that affects my immune system (for example, HIV/AIDS, lupus, other autoimmune disorder) \n\n• I have a chronic health condition (for example, diabetes, emphysema, asthma, heart condition) \n\n• I am getting treatment that affects my immune system (for example, chemotherapy, corticosteroids, TNF inhibitors)"
+  },
+  {
+    "title":"Do you have any of the following:",
+    "image":"",
+    "desc": "• fever \n\n• cough \n\n• shortness of breath \n\n• difficulty breathing \n\n• sore throat \n\n• runny nose"
+  },
+  {
+    "title":"In the past 14 days, did you return from travel outside of Canada, or did you have close contact with someone who is confirmed as having COVID-19?",
+    "image":"",
+    "desc": "For example, someone in your household or workplace."
+  }
+]

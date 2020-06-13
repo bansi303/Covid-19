@@ -1,0 +1,27 @@
+[
+  {
+    "title":"Stay at Home",
+    "image":"StayAtHome",
+    "desc": "If you have confirmed or possible COVID-19 or have symptoms, isolate yourself in your home to protect others.\n\n• Stay home.\n\n• Monitor your symptoms and if they get worse, contact your doctor immediately.\n\n• Do your best to stay away from your other household members, including pets.\n\n• Designate a room for your use only. Ideally use your own bathroom, too.\n\n• Wash your hands frequently.\n\n• If you cough or sneeze, cover your mouth and nose with a tissue. Discard the tissue and immediately wash your hands.\n\n• Avoid sharing personal items such as dishes, towels, and bedding with other people in your house.\n\n• Clean and disinfect frequently used surfaces often.\n\n• Wash laundry frequently.\n\n• Have a household member or friend run errands for you like picking up groceries or prescriptions.\n\n• Wear a mask if you have to be around other people. If you can’t find a mask, create one from a garment like a scarf. If you can’t wear a mask because of difficulty breathing, make sure caregivers wear one around you.\n\n• You can leave your house to receive medical care, but don’t take the bus, subway, or taxi."
+  },
+  {
+    "title":"Wash Your Hand",
+    "image":"WashHand",
+    "desc": "Washing your hands is the best way to help you stay healthy. Here’s how to do it. \n\n• Wet your hands with clean, running water. Turn off the tap and apply soap. \n\n• Lather your hands by rubbing them together. Get the backs of your hands, between your fingers, and under your nails. \n\n• Scrub your hands for 20 seconds. Sing “Happy Birthday” twice while washing to gauge your timing. \n\n• Rinse your hands under clean, running water. Air dry or use a clean towel. \n\n• No soap or water? Use hand sanitizer that contains at least 60 percent alcohol. Apply the gel to the palm of one hand. Rub your hands together over all of your hands’ surfaces and fingers until your hands are dry. \n\n• Avoid touching your face and eyes."
+  },
+  {
+    "title":"Avoid Shaking",
+    "image":"NoHandShake",
+    "desc": "Handshaking is an efficient way to spread germs, since we touch our faces multiple times every hour. \n\n• Greeting one another with a wave or elbow bump instead of a handshake or hug."
+  },
+  {
+    "title":"Wear Mask",
+    "image":"WearMask",
+    "desc": "Medical masks, including surgical, medical procedure face masks and respirators (like N95 masks), must be kept for health care workers and others providing direct care to COVID-19 patients.\n\n• Wearing a non-medical mask or face covering while out in public is optional"
+  },
+  {
+    "title":"Keep Distance",
+    "image":"KeepDistance",
+    "desc": "The main way COVID-19 spreads is between people. Social distancing helps to stop the spread.\n\n• Avoid physical contact with other people.\n\n• Stay at least 6 feet away from people when outside your home.\n\n• Do not invite guests over to your house.\n\n• Avoid large groups.\n\n• Stay home if you’re sick."
+  }
+]

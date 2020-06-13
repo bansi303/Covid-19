@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.1.0)
+  - Charts (3.4.0):
+    - Charts/Core (= 3.4.0)
+  - Charts/Core (3.4.0)
+  - SDWebImage (5.7.2):
+    - SDWebImage/Core (= 5.7.2)
+  - SDWebImage/Core (5.7.2)
+  - SVProgressHUD (2.2.5)
+  - SwiftGifOrigin (1.7.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Charts
+  - SDWebImage
+  - SVProgressHUD
+  - SwiftGifOrigin
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - SDWebImage
+    - SVProgressHUD
+    - SwiftGifOrigin
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  Charts: 74c9f256eaf0460c0c416522d1cf8c634ea6b286
+  SDWebImage: d9ea4959d99c52276dfada481987018fcaea3d58
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+
+PODFILE CHECKSUM: 93806da77298cf2c861802f9aa9fb1fb88b36895
+
+COCOAPODS: 1.9.1
