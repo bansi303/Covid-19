@@ -4,7 +4,7 @@
 An application that simplifies accessing and show some of Covid-19 information
 
 ## Overview
-This application fetch and shows the current information such as  total case, death rate, recover rate about the Covid-19 for the whole world and the nearest country of the user. It also include self assesment test and how to avoid infection of Covid-19. 
+This application fetches and shows the current information such as total case, death rate, recover rate about the Covid-19 for the whole world, and the nearest country of the user. It also includes a self assessment test and how to avoid infection of Covid-19.
 
 ## Archietecture
 MVVM ( Model View Viewmodel) for easy testing and debugging 
